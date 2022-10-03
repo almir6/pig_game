@@ -1,4 +1,4 @@
-# pig_game
+# pig game
 
 I made this web app while studying JavaScript.
 It is a simple project, but can be fun to play.
